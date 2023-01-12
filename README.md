@@ -1,3 +1,5 @@
+# Testing Wine Quality
+
 The purpose of this machine learning project is to investigate the potential for using data-driven approaches to predict wine quality. 
 The overall objective of this study consists in utilizing different machine learning techniques to predict the quality of wine based on various chemical properties such as acidity, pH, and alcohol content. 
 A dataset comprising red or white wine samples and their corresponding quality ratings was exploited for model training and testing. 
